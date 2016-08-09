@@ -1,0 +1,25 @@
+{
+  "name": "first-demo-nodejs",
+  "version": "1.0.0",
+  "description": "My first demo Project of Nodejs",
+  "main": "ServerDemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungvumanh95/DemoNodeJS.git"
+  },
+  "keywords": [
+    "demoNodeJS"
+  ],
+  "author": "Vu Manh Tung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungvumanh95/DemoNodeJS/issues"
+  },
+  "homepage": "https://github.com/tungvumanh95/DemoNodeJS#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
